@@ -1,8 +1,8 @@
 # dev-elk
-dev elasticsearch instance for tem tasks
+dev elasticsearch instance for temp tasks
 from: https://medium.com/@TimvanBaarsen/how-to-run-an-elasticsearch-7-x-single-node-cluster-for-local-development-using-docker-compose-2b7ab73d8b82
 
-Bring up detached local elk stack: \
+Bring up a single node local elk stack: \
 kibana: http://localhost:5601 \
 elasticsearch: http://localhost:9200
 
